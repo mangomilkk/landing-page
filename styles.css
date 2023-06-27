@@ -167,6 +167,19 @@ ul {
 }
 
 
+/*footer*/
+
+.footer {
+    background-color: #1f2937;
+    padding: 10px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: lighter;
+    font-size: 15px;
+}
+
 
 
 
